@@ -1,5 +1,5 @@
 # pythonasaurus
-Some Python refresher, with some programs
+Quick Python refresher, with some coding practice.
 
 Following topics are covered:
 
