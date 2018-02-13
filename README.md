@@ -3,20 +3,20 @@ Quick Python refresher, with some coding practice.
 
 This repo has two parts, both part has basic to complex programs.
 
-Below is the contents of each branch:
+Below are the contents of each branch:
 
-#### Branch one:
+#### 1. Branch one:
 
-Following topics are covered:
+Following topics are covered in this branch:
 
-- [ ] Functions
+- [ ] Functions*
 - [ ] Classes
 
-#### Branch Two:
+#### 2. Branch Two:
 
-Following topics are covered:
+Following topics are covered in this branch:
 
-- [ ] Numbers and Strings
+- [ ] Numbers and Strings*
 - [ ] Functions, Installation and Conditionals
 - [ ] Data Structures and Loops
 - [ ] Files and Modules
