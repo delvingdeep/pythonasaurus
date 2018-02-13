@@ -16,8 +16,8 @@ Following topics are covered in this branch:
 
 Following topics are covered in this branch:
 
-- [ ] Numbers and Strings*
-- [ ] Functions, Installation and Conditionals
+- [x] Numbers and Strings
+- [ ] Functions and Conditionals*
 - [ ] Data Structures and Loops
 - [ ] Files and Modules
 - [ ] Wikipedia Web Crawl Case Study
